@@ -8,7 +8,7 @@ categories:
 tags:
     - Math
 authors:
-    - 97Continuum
+    - talhajamal11
 slug: my-first-post
 --- 
 
